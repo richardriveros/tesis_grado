@@ -45,7 +45,7 @@ Edición: 6ta edición
 ISBN: 978-1-4562-2396-0
 Páginas: 1-600
 
-Tesis Asociadas: T001, T003
+Tesis Asociadas: T001 (y T003 como ejemplo de múltiples tesis)
 Tema Principal: Metodología de Investigación
 Palabras Clave: metodología, investigación científica, diseño de investigación
 

@@ -22,7 +22,7 @@ Este índice organiza todas las fuentes registradas alfabéticamente por autor p
 - **F001**: Metodología de la Investigación Científica (2014)
   - Coautores: Fernández Collado, Carlos; Baptista Lucio, Pilar
   - Tipo: Libro
-  - Tesis asociadas: T001, T003
+  - Tesis asociadas: T001 (ejemplo)
 
 ## I
 
